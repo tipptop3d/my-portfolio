@@ -8,3 +8,4 @@ https://tipptop3d.github.io/my-portfolio/
 - calculate acceleration of ball based on angle (ball and mass differ on an incline: ball can roll if friction exist due to torque)
 - calculate offset path distance regarding path an velocity of ball
 - make ball draggable
+- make curve adjustable
